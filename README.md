@@ -2,7 +2,8 @@
 
 ## Membres de l'équipe : William Stancu / Luka Stojanovic / Mathias Nega
 
-## Contexte : Dans le cadre de ce projet, nous allons aborder le thème des sports de combat, plus précisément l’UFC, ainsi que l’impact qu’ils ont sur la santé cérébrale et physique des combattants, sans oublier l’aspect financier.
+## Contexte : 
+Dans le cadre de ce projet, nous allons aborder le thème des sports de combat, plus précisément l’UFC, ainsi que l’impact qu’ils ont sur la santé cérébrale et physique des combattants, sans oublier l’aspect financier.
 
 Les données qu’on utilise pour analyser les blessures en UFC viennent surtout des statistiques officielles de l’Ultimate Fighting Championship (UFC), des commissions athlétiques (qui publient les suspensions médicales après les combats), de bases de données spécialisées en MMA et d’études scientifiques sur les commotions et traumatismes crâniens. Pour l’argent, on se base sur les bourses déclarées publiquement et sur des estimations faites par les médias, mais les vrais montants restent souvent partiellement secrets.
 
