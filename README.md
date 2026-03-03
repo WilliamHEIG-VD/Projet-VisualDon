@@ -49,8 +49,8 @@ On ne veut pas critiquer, mais plutôt apporter de la lumière sur des faits mal
 ## Références :
 On utilisera des sites web de l'UFC pour l'historique des combats de chaque combattant ainsi que d'autres site indicatif pour les blessures et salaires.
 
-https://statleaders.ufc.com/
-https://www.rotowire.com/mma/injury-report.php
-http://ufcstats.com/
-https://combatsmma.fr/combien-gagnent-les-combattants-ufc-par-combat-les-vrais-chiffres-reveles
+https://statleaders.ufc.com/ <br>
+https://www.rotowire.com/mma/injury-report.php <br>
+http://ufcstats.com/ <br>
+https://combatsmma.fr/combien-gagnent-les-combattants-ufc-par-combat-les-vrais-chiffres-reveles <br>
 
