@@ -46,6 +46,9 @@ L’histoire qu’on veut raconter, c’est un peu la face cachée de l’UFC. D
 
 On ne veut pas critiquer, mais plutôt apporter de la lumière sur des faits malheureux derrière cette organisation.
 
+## Wireframe :
+Disponible à la racine du repo.
+
 ## Références :
 On utilisera des sites web de l'UFC pour l'historique des combats de chaque combattant ainsi que d'autres site indicatif pour les blessures et salaires.
 
